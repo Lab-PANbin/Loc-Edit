@@ -56,9 +56,9 @@
 <strong>If you like our work, please give us a ⭐!</strong>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <strong>Our work has been accepted by Neurocomputing and will be published soon!</strong>
-</p>
+</p> -->
 
 
 <p align="center">
@@ -96,11 +96,16 @@ If you use `Loc-Edit` or its methods in your work, please cite the following Bib
 <summary> bibtex </summary>
 
 ```latex
-@misc{xu2026locEdit,
-      title={Loc-Edit: Localized Color Editing in Neural Radiance Fields},
-      author={Haiyang Xu, Xia Xu, Yinghao Tan, Ziye Zhang, Nanhe Chen, Bin Pan, Zhenwei Shi},
-      booktitle={Neurocomputing},
-      year={2026},
+@article{XU2026133184,
+title = {Loc-Edit: Localized color editing in neural radiance fields},
+journal = {Neurocomputing},
+volume = {678},
+pages = {133184},
+year = {2026},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2026.133184},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231226005813},
+author = {Haiyang Xu and Xia Xu and Yinghao Tan and Ziye Zhang and Nanhe Chen and Bin Pan and Zhenwei Shi}
 }
 ```
 </details>
